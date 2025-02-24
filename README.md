@@ -77,6 +77,10 @@ This is a Python-based application that provides a Graphical User Interface (GUI
    ```bash
    python app.py
 
+## Screenshot
+
+![Screenshot](./1.png)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
