@@ -64,14 +64,27 @@ This is a Python-based application that provides a Graphical User Interface (GUI
    ```bash
    pip install pyodbc
 
-3.**Database Configuration:**
-   -The database file (Studenti.accdb) should be available at a specific location. By default, the code assumes the database is located at:
+3. **Database Configuration:**
+   - The database file (`Studenti.accdb`) should be available at a specific location. By default, the code assumes the database is located at:
 
-4.**Run the application:**
+   ```plaintext
+   C:\Users\win\OneDrive\Desktop\python\Studenti.accdb
 
-   -After setting up the database, you can run the application with the following command:
+
+4. **Run the application:**
+   - After setting up the database, you can run the application with the following command:
+
+   ```bash
+   python app.py
 
 
 ## License
-   This project is licensed under the MIT License - see the LICENSE file for details.
-   
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+The MIT License is a permissive free software license, meaning you can freely use, modify, and distribute this code, as long as you include the original license notice in all copies or substantial portions of the software. 
+
+### Key Points:
+- You can use the software for personal or commercial purposes.
+- You can modify the software as needed.
+- The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
