@@ -57,3 +57,28 @@ This is a Python-based application that provides a Graphical User Interface (GUI
    ```bash
    git clone https://github.com/yourusername/student-database-management.git
    cd student-database-management
+
+2. **Install required dependencies:**
+   -Ensure that you have Python 3.x installed on your system. You can install the required dependencies using pip:
+
+   ```bash
+   pip install pyodbc
+
+3.**Database Configuration:**
+   -The database file (Studenti.accdb) should be available at a specific location. By default, the code assumes the database is located at:
+
+   ```makefile
+   C:\Users\win\OneDrive\Desktop\python\Studenti.accdb
+   -Make sure to either place the database at this location or modify the path in the code to match your environment.
+
+4.**Run the application:**
+
+   -After setting up the database, you can run the application with the following command:
+
+   ```bash
+   python app.py
+   -This will launch the GUI, where you can start managing student records.
+
+##License
+   This project is licensed under the MIT License - see the LICENSE file for details.
+   
