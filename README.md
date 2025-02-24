@@ -67,7 +67,7 @@ This is a Python-based application that provides a Graphical User Interface (GUI
 3.**Database Configuration:**
    -The database file (Studenti.accdb) should be available at a specific location. By default, the code assumes the database is located at:
 
-   ```makefile
+   ```bash
    C:\Users\win\OneDrive\Desktop\python\Studenti.accdb
    -Make sure to either place the database at this location or modify the path in the code to match your environment.
 
